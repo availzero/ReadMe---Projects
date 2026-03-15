@@ -55,7 +55,13 @@ Project Status
 
 
 Development Approach
-Hive is a personal project built with AI-assisted development — architecture, product decisions, and business logic are owner-defined; Antigravity (Claude Opus) handled code generation and implementation, enabling rapid prototyping of a production-grade platform.
+Hive is a personal project built with AI-assisted development — architecture, product decisions, and business logic are owner-defined. 
+Antigravity (Claude Opus) handled code generation and implementation, enabling rapid prototyping of a production-grade platform.
 
 Why "Hive"?
-A beehive is a marvel of distributed coordination — small agents, clear roles, and collective output far greater than the sum of parts. Hive is built on the same idea: sub-brokers, clients, research, and AI working in concert on a single platform.
+A beehive is a marvel of distributed coordination — small agents, clear roles, and collective output 
+far greater than the sum of parts. Hive is built on the same idea: sub-brokers, clients, research, 
+and AI working in concert on a single platform.
+
+A Glimpse on the UI:- 
+[Hive UI][b2bhive.gif]
