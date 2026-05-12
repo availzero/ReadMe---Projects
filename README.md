@@ -40,5 +40,5 @@ Development Approach Hive is a personal project built with AI-assisted developme
 <img width="1511" height="862" alt="hive2" src="https://github.com/user-attachments/assets/ce68d8d5-6a6e-4cf5-a4b2-0680fba03940" />
 <br><br><br><br>
 **About the name**
-
+<br><br>
 Why "Hive"? A beehive is a marvel of distributed coordination — small agents, clear roles, and collective output far greater than the sum of parts. Hive is built on the same idea: sub-brokers, clients, research, and AI working in concert on a single platform.
